@@ -1,0 +1,37 @@
+.jumbotron {
+    background-color: transparent;
+    text-align: center;
+    height: 300px;
+}
+
+.lead {
+    color: orangered;
+    text-align: center;
+}
+
+body{
+   background-color: dodgerblue;
+    background-size: 100%;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+img{
+    width: 250px;
+}
+
+.panel-panel default{
+
+    border-radius: 55px;
+}
+
+h2{
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+}
+
+.enter{
+    text-align: center;
+    color: #333333;
+}
